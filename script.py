@@ -2,4 +2,4 @@
 
 print('Hello, World!')
 
-# stage work
+print('Completed development')
